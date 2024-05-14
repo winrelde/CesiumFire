@@ -10,7 +10,7 @@ const store = useStore()
           <span class="name">版本号：</span><span class="value">V1.0</span>
         </div>
         <div class="item">
-          <span class="name">开发者：</span><span class="value">福大物信虚拟仿真实验室</span>
+          <span class="name">开发者：</span><span class="value">XXX</span>
         </div>
         <div class="item">
           <span class="name">更新日期：</span
